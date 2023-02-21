@@ -1,0 +1,14 @@
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  background-color: aquamarine;
+  font-family: 'Lato', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.creador {
+  margin: 10px;
+}

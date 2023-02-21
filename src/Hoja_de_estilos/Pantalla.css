@@ -1,0 +1,14 @@
+.input {
+  height: 65px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: block;
+  text-align: end;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 35px;
+  background-color: black;
+  color: white;
+  padding: 23px 23px 0 23px;
+  box-shadow: 0px 4px darkgray;
+  overflow: auto;
+}
